@@ -15,6 +15,7 @@ hs_err_pid*
 .idea/
 
 #generated webapp stuff
-src/main/webapp/components
-src/main/webapp/node
-src/main/webapp/node_modules
+# Raspberry cant work with Node.js so just push this shit
+#src/main/webapp/components
+#src/main/webapp/node
+#src/main/webapp/node_modules
