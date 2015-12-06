@@ -54,6 +54,10 @@ a {
   font-size: 65px;
   margin-top: -5px;
 }
+.card .number.coffee > img {
+  width: 60px;
+  color: #94d31b;
+}
 .card-wrapper .card {
   height: 400px;
 }
@@ -64,4 +68,7 @@ a {
 .card-wrapper .card .number.infinity {
   font-size: 165px;
   margin-top: -5px;
+}
+.card-wrapper .card .number.coffee > img {
+  width: 60px;
 }
