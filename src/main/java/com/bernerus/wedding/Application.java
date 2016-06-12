@@ -1,4 +1,4 @@
-package com.bernerus.scrumpoker;
+package com.bernerus.wedding;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
